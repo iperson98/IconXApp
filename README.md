@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Affirmations App - Solution Code
 ================================
 
@@ -24,3 +25,7 @@ Getting Started
 4. Build and run the sample.
 
 All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+=======
+# IconXApp
+Getting started with custom Icons
+>>>>>>> afde1aec3e581239b82041342dd06bee7087f9aa
